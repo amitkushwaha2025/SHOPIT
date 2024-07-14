@@ -1,0 +1,146 @@
+[
+    {
+        "name":"banans ",
+        "price":"4.89",
+        "description":"le lo bhai le lo bahut ache h banana" ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Food",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    },
+    {
+        "name":"boat ",
+        "price":"43.89",
+        "description":"le lo bhai le lo bahut ache h banana" ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Food",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    },
+    {
+        "name":"Cameras ",
+        "price":"4.89",
+        "description":"4k altra wide cameras , using for click some beautifull picture on for girls" ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Cameras",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    },
+    {
+        "name":"novel ",
+        "price":"4.89",
+        "description":"this books are good for the human beings " ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Books",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    },
+    {
+        "name":"SS ",
+        "price":"4.89",
+        "description":"this bat are last time using by amit kushwaha" ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Sports",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    },
+    {
+        "name":"MRF ",
+        "price":"41.89",
+        "description":"this is low quality but good shorts are hiting with the help of this bat" ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Sports",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    },
+    {
+        "name":"caram ",
+        "price":"4.89",
+        "description":"maximum four player are supported" ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Home",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    },
+    {
+        "name":"banans ",
+        "price":"4.89",
+        "description":"le lo bhai le lo bahut ache h banana" ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Food",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    },
+    {
+        "name":"kabaddi mat ",
+        "price":"4.89",
+        "description":"this is flexible for any activities" ,
+        "rating":"5",
+        "images":[{
+            "public_id":"product/tzfsnrli3szrdnb4jgge",
+            "url":"https://res.cloudinary.com/shopit/image/upload/v1606231282/products/tzfsnrli3szrdnb4jgge.jpg"
+        }],
+        "category":"Outdoor",
+        "seller":"Ebay",
+        "stock":1,
+        "numOfReviews":12,
+        "reviews":[]
+    
+    }
+]
