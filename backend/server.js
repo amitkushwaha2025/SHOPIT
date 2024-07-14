@@ -1,4 +1,6 @@
+const express = require('express')
 const app = require("./app");
+const path = require('path')
 
 // const dotenv = require("dotenv");
 const cloudinary = require('cloudinary').v2;
@@ -29,6 +31,16 @@ if(process.env.NODE_ENV !== "PRODUCTION") {
 
 //connection database 
 connectDatabase()
+
+
+
+// Serve static files from the React frontend app
+app.use(express.static(path.join(__dirname, '../frontend/build')));
+
+// Catch-all handler for all other requests and serve the frontend's index.html file
+app.get('*', (req, res) => {
+  res.sendFile(path.join(__dirname, '../frontend/build/index.html'));
+});
 
 
 
